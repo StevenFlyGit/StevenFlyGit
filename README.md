@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi everybody 👋 Welcome to my space of digital workshop — glad you’re here!
 
 <!--
 **StevenFlyGit/StevenFlyGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE%EF%BC%8C%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE;Achuan-2+%E7%A5%9D%E4%BD%A0%E4%BB%8A%E6%97%A5%E6%84%89%E5%BF%AB" alt="typing-svg">
+<p align="left">
+   <img src="https://readme-typing-svg.herokuapp.com?font=SN+Pro&weight=500&size=30&duration=3000&pause=3000&color=40A0F7&center=true&vCenter=true&width=801&lines=Turning+coffee+into+clean+code%2C+one+commit+at+a+time." alt="typing-svg">
 </p>
