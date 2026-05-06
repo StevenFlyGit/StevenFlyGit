@@ -1,4 +1,4 @@
-# Hi everybody 👋 Welcome to my space of digital workshop — glad you’re here!
+# Hi everybody 👋 Welcome to my space of digital workshop — <br> Glad you’re here!
 
 <!--
 **StevenFlyGit/StevenFlyGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +19,6 @@ Here are some ideas to get you started:
    <img src="https://readme-typing-svg.herokuapp.com?font=SN+Pro&weight=500&size=30&duration=3000&pause=3000&color=40A0F7&center=true&vCenter=true&width=801&lines=Turning+coffee+into+clean+code%2C+one+commit+at+a+time." alt="typing-svg">
 </p>
 
-<a href="https://www.baidu.com" target="_blank" > ss </a>
-
 <p align="center">
 <a title="github" target="_blank" href="https://github.com/Achuan-2"><img alt="github" src="https://img.shields.io/badge/Github-000?logo=github&logoColor=fff"></a>
 <a title="Notion" target="_blank" href="https://ambiguous-mulberry-872.notion.site/1f4a89196df180fbb4e5e34b0fbf5c2a?v=1f4a89196df180188a7d000ce7001adf"><img alt="Notion" src="https://img.shields.io/badge/Notion-knowledge%20base-20b9ec?labelColor=black&logo=notion"></a>
@@ -35,30 +33,84 @@ Here are some ideas to get you started:
 </p>
 
 
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
-### Tech & Tools Preference
+## 🤓 About Me
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+- 🖖 **Name：** `Steven Wang`
 
-### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+- 👨‍💻 **Previous Experience:** <br>
+   Worked as a Java program developer 
+   Experienced in developing multiple B2B projects across various industries
+
+- 👨‍🎓 **Present Status:** <br>
+   a Master's sutdent, AI major <br>
+   studying at China East Normal University
+  
+- 📖 **Research Interests：**
+   Multi-domain Agentic Development
+   
+- 🔭 **Learning in Progress：** AI application development <br>
+   Various skills & techs elated to it, like Pytorch, fine-tuning a model
+
+- 📫 **How to reach me:** ‌ ‌&nbsp; w1p2f3@126.com
+
+<hr>
+
+
+</br>
+
+
+## 🏗️ Repository Introduction
+
+[UnderwaterGarbageClassification](https://github.com/StevenFlyGit/UnderwaterGarbageClassification): 一个水下垃圾识别项目，主要使用mmcv的基础能力和mmyolov8进行目标检测
+
+
+</br>
+
+
+## 🐍 Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StevenFlyGit/StevenFlyGit/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StevenFlyGit/StevenFlyGit/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/StevenFlyGit/StevenFlyGit/output/github-snake.svg">
+  </picture>
+</div>
+
+
+
+</br>
+
+
+## Tech & Tools Preference
+
+![Java](http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![NoJs](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Mybatis](https://img.shields.io/badge/-Mybatis-000000?style=flat&logo=apache&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![RocketMQ](https://img.shields.io/badge/-RocketMQ-D77310?style=flat&logo=apacherocketmq&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+
+
+## Tech & Tools Currently Exploring 
+![python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF)
+![Google](http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat)
 
 
 
