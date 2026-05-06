@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a title="github" target="_blank" href="https://github.com/Achuan-2"><img alt="github" src="https://img.shields.io/badge/Github-000?logo=github&logoColor=fff"></a>
-<a title="Notion" target="_blank" href="https://ambiguous-mulberry-872.notion.site/1f4a89196df180fbb4e5e34b0fbf5c2a?v=1f4a89196df180188a7d000ce7001adf"><img alt="Notion" src="https://img.shields.io/badge/Notion-knowledge%20base-20b9ec?labelColor=black&logo=notion"></a>
+<a title="Notion" target="_blank" href="https://ambiguous-mulberry-872.notion.site/1f4a89196df180fbb4e5e34b0fbf5c2a"><img alt="Notion" src="https://img.shields.io/badge/Notion-knowledge%20base-20b9ec?labelColor=black&logo=notion"></a>
 <a title="xiaohongshu" target="_blank" href="https://www.xiaohongshu.com/user/profile/5ea119500000000001006956"><img alt="Static Badge" src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442"></a>
 <!-- <a title="wechat" target="_blank" href="https://mp.weixin.qq.com/s/_NrGwjJnEta0oT5a6EKdiA"><img alt="Static Badge" src="https://img.shields.io/badge/Wechat-07C160?logo=wechat&logoColor=fff"></a> -->
 
@@ -57,6 +57,16 @@ Here are some ideas to get you started:
 
 <hr>
 
+
+</br>
+
+
+## 🗂️ Knowledge Base
+As I learn and understand technology, I will record the knowledge I acquire into the Notion knowledge base <br>
+
+The Notion knowledge base stores various technical aspects of Java development and is currently recording relevant knowledge and technologies related to AI development
+
+Click **[here](https://ambiguous-mulberry-872.notion.site/1f4a89196df180fbb4e5e34b0fbf5c2a)** to sruf ！！！
 
 </br>
 
