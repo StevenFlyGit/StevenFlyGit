@@ -41,14 +41,14 @@ Here are some ideas to get you started:
 
 - 👨‍💻 **Previous Experience:** <br>
    Worked as a Java program developer 
-   Experienced in developing multiple B2B projects across various industries
+   Experienced in developing multiple 2B projects across various industries
 
 - 👨‍🎓 **Present Status:** <br>
    a Master's sutdent, AI major <br>
    studying at China East Normal University
   
 - 📖 **Research Interests：**
-   Multi-domain Agentic Development
+  Use LLM for Multi-domain Agentic Development in combination with various industries
    
 - 🔭 **Learning in Progress：** AI application development <br>
    Various skills & techs elated to it, like Pytorch, fine-tuning a model
