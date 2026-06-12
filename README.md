@@ -72,14 +72,17 @@ Click **[here](https://ambiguous-mulberry-872.notion.site/1f4a89196df180fbb4e5e3
 
 
 ## 🏗️ Repository Introduction
+[mini-game ](https://github.com/StevenFlyGit/mini-game): 记录个人工作流中常用的skill和脚本文件
 
 [UnderwaterGarbageClassification](https://github.com/StevenFlyGit/UnderwaterGarbageClassification): 一个水下垃圾识别项目，主要使用mmcv的基础能力和mmyolov8进行目标检测
+
 [AFAC2026-Track2](https://github.com/StevenFlyGit/AFAC2026-Track2): AFAC2026挑战组-赛题二：复杂金融文档还原挑战
+
 [LearnFlow](https://github.com/StevenFlyGit/LearnFlow): 个人学习工作流，功能还不是很完善，后续会加入Notion同步和RSS订阅功能
+
 [dagou-CustomerAcquisition-imitation](https://github.com/StevenFlyGit/dagou-CustomerAcquisition-imitation): 一个仿照https://dagou.cn.com/ 设计的营销获客平台，可用于个人IP的自媒体营销
 
-
-
+[mini-game](https://github.com/StevenFlyGit/mini-game): 个人Vibe Coding 的小游戏
 
 </br>
 
