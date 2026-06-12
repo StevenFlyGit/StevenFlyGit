@@ -72,7 +72,7 @@ Click **[here](https://ambiguous-mulberry-872.notion.site/1f4a89196df180fbb4e5e3
 
 
 ## 🏗️ Repository Introduction
-[mini-game ](https://github.com/StevenFlyGit/mini-game): 记录个人工作流中常用的skill和脚本文件
+[Personal-Skills-Scripts](https://github.com/StevenFlyGit/Personal-Skills-Scripts): 记录个人工作流中常用的skill和脚本文件
 
 [UnderwaterGarbageClassification](https://github.com/StevenFlyGit/UnderwaterGarbageClassification): 一个水下垃圾识别项目，主要使用mmcv的基础能力和mmyolov8进行目标检测
 
