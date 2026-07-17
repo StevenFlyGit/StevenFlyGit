@@ -78,6 +78,8 @@ Click **[here](https://ambiguous-mulberry-872.notion.site/1f4a89196df180fbb4e5e3
 
 [AFAC2026-Track2](https://github.com/StevenFlyGit/AFAC2026-Track2): AFAC2026挑战组-赛题二：复杂金融文档还原挑战
 
+[AWS-NBADraft-Agent](https://github.com/StevenFlyGit/AWS-NBADraft-Code): NBA选秀球探Agent
+
 [LearnFlow](https://github.com/StevenFlyGit/LearnFlow): 个人学习工作流，功能还不是很完善，后续会加入Notion同步和RSS订阅功能
 
 [MBTI-Assistant](https://github.com/StevenFlyGit/MBTI-Assistant.git): 极简 MBTI 桌面记录助手，记录个人MBTI和你向往的MBTI行为映射
