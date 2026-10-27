@@ -76,6 +76,8 @@ Click **[here](https://ambiguous-mulberry-872.notion.site/1f4a89196df180fbb4e5e3
 
 [UnderwaterGarbageClassification](https://github.com/StevenFlyGit/UnderwaterGarbageClassification): 一个水下垃圾识别项目，主要使用mmcv的基础能力和mmyolov8进行目标检测
 
+[ChineseCharacterStudyAid](https://github.com/StevenFlyGit/ChineseCharacterStudyAid): 面向低龄儿童的 AI 拆字 Agent。一款面向识字初期儿童的汉字学习辅助工具，帮助孩子认识常见但结构较复杂的汉字。
+
 [xhs-content-workflow](https://github.com/StevenFlyGit/xhs-content-workflow): 小红长文内容编辑工作流
 
 [AWS-NBADraft-Agent](https://github.com/StevenFlyGit/AWS-NBADraft-Code): NBA选秀球探Agent
